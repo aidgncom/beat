@@ -1,0 +1,7 @@
+Full Score is an implementation of BEAT and is distributed under BEAT's GPL-3.0-or-later license.
+For detailed information on the BEAT specification and licenses, refer to the root of the GitHub repository.
+GitHub Repo: https://github.com/aidgncom/beat
+
+BEAT: GPL-3.0-or-later License (source/beat/LICENSE)
+RHYTHM: GPL-3.0-or-later License (source/rhythm/LICENSE)
+TEMPO: MIT License (source/tempo/LICENSE)
